@@ -650,6 +650,7 @@ Para que la ficha de ''voto'' se convierta efectivamente en una red útil capaz 
 ===3.5 End Game.===
 
 [agregar traduccion aqui]
+TEST
 
 ----
 
